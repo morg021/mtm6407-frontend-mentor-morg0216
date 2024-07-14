@@ -323,7 +323,8 @@ nav.expanded{
     display: flex;
     flex-direction: column;
     background-color: black;
-    height: 100vh;
+    /* height: 15vh; */
+
 }
 
 nav.expanded .menu-mobile{
@@ -332,9 +333,10 @@ nav.expanded .menu-mobile{
     justify-content: center;
     align-items: center;
     flex-grow: 1;
-    padding: 1rem;
+   
     list-style: none;
     margin: 0;
+
 
 }
 /* .menu-mobile{
